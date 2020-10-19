@@ -3,7 +3,7 @@ const World= Matter.World;
 const Bodies = Matter.Bodies;
 
 var engine, world;
-var box1, pig1;
+var box1, pig1,box2,box3,box4,box5,pig3,log1,log2,log3,log4,log5;
 var backgroundImg,platform;
 
 function preload() {
